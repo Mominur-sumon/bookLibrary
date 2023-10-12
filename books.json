@@ -1,0 +1,24 @@
+[
+    {
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "available": "Yes",
+        "pages": "336",
+        "isbn": "9780061120094"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "available": "No",
+        "pages": "300",
+        "isbn": "9780547249643"
+    },
+    {
+        "title": "C premiar Plus",
+        "author": "denis recy",
+        "available": "Yes",
+        "pages": "2000",
+        "isbn": "151",
+        "submit": "submit"
+    }
+]
