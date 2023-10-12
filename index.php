@@ -25,7 +25,7 @@ $index=0;
 <?php $books = getBooks(); ?>
 
 <body>
-   <div style="position: absolute>
+   <div style="position: absolute ">
 
         <form action= "search.php" method="post">
             <input type="text" name="search" placeholder="Search...">
